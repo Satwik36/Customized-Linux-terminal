@@ -1,0 +1,4 @@
+1) the choice of implementing the all the features are internal it meant i only need to create methods which is quite easy to implement.
+2) I was able successfully implement all the features mentioned to the best of edge cases possible
+3)the only limitation that I found is that when given commands in a text file to test it gives different outputs at different time, ex: sometime the commands execute in infinite loop, sometimes only few get executed, sometime it is perfect. I couldn't get into the root of the problem though i have tried multiple approaches.
+4)This program supports pipes and i/o redirection.
